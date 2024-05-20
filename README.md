@@ -18,7 +18,7 @@ The scope of this project includes:
 ## Data Collection
 
 ## Sources
-The data used in this analysis is collected from Kaggle and is provided in a CSV format.
+The data used in this analysis is collected from Kaggle and is provided in a CSV format. You need to unzip the input csv file.
 
 
 ## Methodology
